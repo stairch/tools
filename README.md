@@ -1,3 +1,3 @@
 # tools
 
-Some custom software tools to make the life for a member in the STAIR board easier.
+Some custom software tools, that make the life of a member of the STAIR team easier.
